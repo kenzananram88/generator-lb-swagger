@@ -1,0 +1,31 @@
+{
+  "name": "generator-lb-swagger",
+  "version": "0.1.0",
+  "description": "",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "async": "^2.1.4",
+    "chalk": "^1.1.0",
+    "inflection": "^1.7.1",
+    "js-yaml": "^3.4.2",
+    "lodash": "^4.16.1",
+    "loopback-api-definition": "^3.0.0",
+    "loopback-swagger": "^4.0.0",
+    "loopback-workspace": "^3.28.0",
+    "mkdirp": "^0.5.1",
+    "request": "^2.60.0",
+    "strong-globalize": "^2.6.8",
+    "text-table": "^0.2.0",
+    "yargs": "^7.0.2",
+    "yeoman-generator": "1.0.0",
+    "yosay": "^1.0.5"
+  }
+}
